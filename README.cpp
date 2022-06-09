@@ -1,4 +1,4 @@
-# DSA_binarytree
+//print nodes at distance k in binary tree
 #include<bits/stdc++.h>
 using namespace std;
 int main()
